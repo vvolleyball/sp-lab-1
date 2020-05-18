@@ -1,3 +1,0 @@
-﻿  Lab1_Part2.cpp
-C:\Users\tom03\source\repos\Lab1\Lab1_Part2\Lab1_Part2.cpp(170,9): warning C4477: "printf": в строке форматирования "%s" требуется аргумент типа "char *", но вариативный аргумент "1" имеет тип "LPVOID"
-  Lab1_Part2.vcxproj -> C:\Users\tom03\source\repos\Lab1\Debug\Lab1_Part2.exe
